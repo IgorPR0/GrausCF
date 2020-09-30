@@ -1,0 +1,13 @@
+C:\Users\Acer\Documents\aulapc\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.exe
+C:\Users\Acer\Documents\aulapc\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.deps.json
+C:\Users\Acer\Documents\aulapc\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.runtimeconfig.json
+C:\Users\Acer\Documents\aulapc\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.runtimeconfig.dev.json
+C:\Users\Acer\Documents\aulapc\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.dll
+C:\Users\Acer\Documents\aulapc\GrausFC\bin\Debug\netcoreapp3.1\GrausFC.pdb
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.AssemblyInfo.cs
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.dll
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.pdb
+C:\Users\Acer\Documents\aulapc\GrausFC\obj\Debug\netcoreapp3.1\GrausFC.genruntimeconfig.cache
